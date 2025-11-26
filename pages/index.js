@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Teste</h1>
+    return <h1>PUTZ GB</h1>
 }
 
 export default Home;
